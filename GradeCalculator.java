@@ -1,5 +1,5 @@
 /*
- * ClassifyMessage.java
+ * GradeCalculator.java
  * Author:  Evan Eastabrooks 
  * Submission Date:  3/5/2021
  *
